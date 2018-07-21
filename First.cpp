@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Luong yeu Huong");
+	printf("Hello Github");
+	
 	return 1;
 }
